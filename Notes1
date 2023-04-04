@@ -3,3 +3,5 @@ linear layout:1.horizontal,2.vertical
 constraint layout:drag and drop at any desired pos but complex
 relative layout:relative to some structure like placing a switch relative to a switch
 six major lifecycle stages in any android app. These are: onCreate() , onStart() , onResume() , onPause() , onStop() , and onDestroy() .
+Saved instance state is mainly used to save the last activity the user produced on the application and so that the 
+application doesn't need to open its work again from start when we access it again.
