@@ -1,0 +1,4 @@
+Type of intent:
+                          1. Implicit Intent  (Opening Screen(Activity) in Another Application)
+                          2. Explicit Intent (Opening Screen( Activity) in the Same Application)
+
