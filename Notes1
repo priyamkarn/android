@@ -1,0 +1,4 @@
+Layout
+linear layout:1.horizontal,2.vertical
+constraint layout:drag and drop at any desired pos but complex
+relative layout:relative to some structure like placing a switch relative to a switch
