@@ -5,3 +5,4 @@ relative layout:relative to some structure like placing a switch relative to a s
 six major lifecycle stages in any android app. These are: onCreate() , onStart() , onResume() , onPause() , onStop() , and onDestroy() .
 Saved instance state is mainly used to save the last activity the user produced on the application and so that the 
 application doesn't need to open its work again from start when we access it again.
+on start:when activity is visible to user
